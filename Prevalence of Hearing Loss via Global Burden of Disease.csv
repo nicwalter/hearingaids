@@ -1,0 +1,61 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1990,0.16482329388978179,0.17168494280088095,0.15845591608839005
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1990,0.18348843769539172,0.19430988109799865,0.17328355028219222
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1991,0.16594201036270617,0.17283716204370644,0.15958478597364775
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1991,0.18544001951225159,0.19637181347779936,0.17531435088212333
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1993,0.18927963203870046,0.20013333649192805,0.1793821669969318
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1994,0.1694973380309354,0.17657124231959007,0.16299534006166647
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1992,0.18738561892446456,0.19831572057961017,0.1774649972150688
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1992,0.16710963597855244,0.17403475080215147,0.16073047930601128
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1993,0.16828990225092835,0.17528468337748548,0.16186703977422126
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1995,0.1706783030841509,0.1778267150470533,0.1641304769816993
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1995,0.19216234510898578,0.20321228740903827,0.18199180150576674
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1994,0.19072666862571241,0.20149497279889347,0.18077084558436274
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1997,0.19450779729787102,0.20547370521651367,0.18410276500784734
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1997,0.1735153657319081,0.18079323684720508,0.16690437809070074
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1996,0.1720185721644606,0.17922851240814108,0.1654406214540904
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1996,0.1932625192497868,0.20422849802527612,0.18294539206280866
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1998,0.17507947602712834,0.18244977916212934,0.1684388097135686
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1998,0.19586560966006852,0.20671945277802573,0.18519205167185976
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2000,0.178129521362014,0.18562937411128536,0.1713925285218385
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,1999,0.17666690255526638,0.1840825905992791,0.17000771291382208
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,1999,0.1968785351910482,0.20774036497241558,0.18602773907257253
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2001,0.19887675095459284,0.20966236090203466,0.18804927018955703
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2000,0.19799350920800696,0.20876572936835017,0.187075330327508
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2002,0.18081075083308376,0.18824899418663443,0.1739358018229893
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2001,0.17951414099541677,0.18697258641049122,0.17273686373707597
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2002,0.20009775891760212,0.2108831479349504,0.18954326013645192
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2003,0.18206157610916215,0.18951772266260505,0.17510218527740476
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2003,0.2015599448140545,0.21237536598001822,0.19069713542132605
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2004,0.1833969018735489,0.190965828602879,0.17636261838205616
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2004,0.20289372539836664,0.21359036573100224,0.1921495276154516
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2005,0.18483361616270325,0.19251690870426783,0.17770542350885798
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2005,0.2045646868022483,0.21582432464586135,0.19379466299639542
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2007,0.18819207239514935,0.1960095546977243,0.18091007522747918
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2006,0.2059776132476071,0.2171317635491723,0.19507703929953754
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2006,0.18646716236892585,0.19421760174335115,0.17925146386922247
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2008,0.18996237840912683,0.1979699751118068,0.18261082201397358
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2008,0.20944020237223743,0.22110671730586123,0.19811887804692405
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2007,0.20760495022384048,0.21920921305546864,0.19658457789422903
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2009,0.19181827165913345,0.20001404041305365,0.18438530178251267
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2009,0.21120851732470994,0.223074490276386,0.19966662114523204
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2011,0.19553004846207658,0.20394852567558272,0.1880544718890808
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2010,0.21348070519815943,0.22576229000349238,0.20154893146106434
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2010,0.19366558739648393,0.2020482690984133,0.18620634531650948
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2011,0.21556143232798036,0.22793468553867785,0.20351351222022013
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2013,0.19923952732935843,0.20754302519240816,0.19176474692189088
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2012,0.19738546258040618,0.2057529631557859,0.18987290345308316
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2012,0.21775607449201367,0.23027391193458466,0.20560896502591705
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2014,0.22222028901539514,0.2351314673595163,0.20987047025198197
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2015,0.20318065234924806,0.2114054032348289,0.19546904903419204
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2013,0.22005205222684726,0.23278852220539184,0.20789439170925028
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2015,0.22480042883693402,0.23812545567839308,0.21227526522935658
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2014,0.20118755797001078,0.2094310172135359,0.19357805991984217
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2016,0.2054952908767086,0.21389685074306364,0.19774592173224234
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2016,0.22680074334687256,0.2400074502729319,0.21410064983314336
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2017,0.20784454742532243,0.2164505128920245,0.19993107262074913
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2017,0.22904179612702166,0.24312599986264882,0.21610608749771743
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2019,0.21117061548664648,0.21995315375620858,0.2031583424194205
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2019,0.2343007436143436,0.24831018622363163,0.22082744927269093
+Prevalence,Global,Both,All Ages,All causes,Hearing loss,Percent,2018,0.2097138025355139,0.21853511108242962,0.2017475316063008
+Prevalence,United States of America,Both,All Ages,All causes,Hearing loss,Percent,2018,0.23179659494833385,0.24580521686091686,0.2186441686758731
